@@ -7,3 +7,5 @@ Load Library Methoduyla CS:GO'ya DLL Dosyası Inject Etmeye Yarayan Bir Araçtı
 -Loader hileyi otomatik olarak belirlenen dizine indirecektir ardından oyunu otomatik olarak açacaktır (o kısmı silerek bunu kapatabilirsiniz) ve otomatik olarak inject edecektir
 
 VAC Bypass ile kullanmanızı tavsiye ederim. İyi günler dostum!
+
+Yanlış giden bir şey olması durumunda discord - Rolesional#6162
