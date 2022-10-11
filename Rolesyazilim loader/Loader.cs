@@ -43,17 +43,6 @@ namespace Rolesyazilim_loader
                 MessageBox.Show("Inject Başarılı!", "Rolesional Injector");
 
                 Inject.InjectMethod.Inject(mainpath, "csgo");
-                Console.Read();
-                csgo.WaitForExit();
-
-                if (File.Exists(mainpath))
-                {
-                    File.Delete(mainpath);
-                }
-                Environment.Exit(0);
-            }
-            else
-            {
                 Environment.Exit(0);
             }
         }
